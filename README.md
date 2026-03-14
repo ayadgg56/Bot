@@ -69,7 +69,8 @@
         .hero-image {
             width: 100%;
             height: 400px;
-            background: url('https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') center/cover no-repeat;
+            /* تم استبدال الصورة القديمة بصورة لخان بني سعد في ديالى */
+            background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Khan_Bani_Saad_-_panoramio.jpg/1200px-Khan_Bani_Saad_-_panoramio.jpg') center/cover no-repeat;
             border-radius: 30px;
             margin: 40px 0;
             box-shadow: 0 20px 30px -5px rgba(0, 0, 0, 0.3);
@@ -205,7 +206,8 @@
             <p>حيث يسكن الجمال ويُفتن العقل</p>
         </header>
 
-        <div class="hero-image" aria-label="صورة جميلة لمنطقة الخان"></div>
+        <!-- تم تغيير الصورة هنا: خان بني سعد في ديالى -->
+        <div class="hero-image" aria-label="صورة لخان بني سعد في ديالى"></div>
 
         <section class="content">
             <div class="card">
